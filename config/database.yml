@@ -29,3 +29,4 @@ production:
   port: 5432
   username: rsiwrlzwprimfc
   password: GHCy8UpWrAJH5S9D0iTGrmBNvE
+  host: ec2-54-235-85-65.compute-1.amazonaws.com
